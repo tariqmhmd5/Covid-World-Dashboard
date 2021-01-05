@@ -7,6 +7,6 @@ https://www.worldometers.info/
 ---
 ### Dashboard View
 
-![Photo.jpeg](https://raw.githubusercontent.com/tariqmhmd5/Covid-World-Dashboard/main/Dashboard.png)
+![Photo.jpeg](https://raw.githubusercontent.com/tariqmhmd5/Covid-World-Dashboard/main/my_dashboard.png)
 
 
